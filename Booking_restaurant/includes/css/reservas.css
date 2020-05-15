@@ -1,0 +1,11 @@
+ button, .button, .faux-button, .wp-block-button__link, .wp-block-file .wp-block-file__button, input[type="button"], input[type="reset"], input[type="submit"] {
+	font-size: inherit !important;
+}
+
+input.invalid {
+	border: 3px solid red;
+}
+
+.swal-button.swal-button--confirm {
+	font-size: 1.5rem !important;
+}
